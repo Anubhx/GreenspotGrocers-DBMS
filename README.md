@@ -26,8 +26,7 @@ The database includes tables for Products, Vendors, Customers, and Transactions.
 
 ## Extended Entity-Relationship Diagram (EER)
 
-![EER Diagram](link-to-your-eer-image.png)
-
+![EER Diagram](image.png)
 ## Anomalies and Design Decisions
 
 ### Anomalies
